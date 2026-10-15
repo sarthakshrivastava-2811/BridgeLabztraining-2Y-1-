@@ -1,13 +1,12 @@
-package Recursion;
+package Recursion.Basic;
 
-public class PrintNumbersInc {
+public class PrintNumbersDec {
     public static void printInc(int n) {
-        if (n==1) {
-            System.out.print(n + " ");
+        if (n == 0) {
             return;
         }
-        printInc(n - 1);
         System.out.print(n + " ");
+        printInc(n - 1);
     }
 
     public static void main(String[] args) {
