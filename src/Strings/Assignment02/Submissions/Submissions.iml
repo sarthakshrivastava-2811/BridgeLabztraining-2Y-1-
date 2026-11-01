@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1_Search_and_Streams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_String_Level1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_String_Level2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_String_Level3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_Arrays_Level2" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
